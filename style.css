@@ -1,0 +1,37 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f8f9fa;
+}
+
+.header {
+    background: linear-gradient(45deg, #28a745, #218838);
+}
+
+.card {
+    border: none;
+    border-radius: 15px;
+}
+
+.card h2 {
+    font-size: 1.8rem;
+    margin-bottom: 1rem;
+}
+
+.card h4 {
+    color: #28a745;
+    margin-top: 1rem;
+}
+
+ul, ol {
+    padding-left: 20px;
+}
+
+ul li, ol li {
+    margin-bottom: 8px;
+}
+
+.footer {
+    position: relative;
+    bottom: 0;
+    width: 100%;
+}
